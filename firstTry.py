@@ -6,8 +6,5 @@ print(432)
 print("nihao")
 print(4556)
 print(321)
-<<<<<<< HEAD
-print("main")
-=======
-print("dev")
->>>>>>> dev
+
+print("main2")
